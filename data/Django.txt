@@ -1,0 +1,3 @@
+Django is a backend web development framework run by Python.
+MTV mechanism is well reflected in the framework, and it is easy to learn and utilize due to well-established Django community.
+Ah, I need to tell you the "D" in front of "Django" is silence. Yoho~

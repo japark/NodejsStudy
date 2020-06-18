@@ -1,0 +1,4 @@
+<script>
+alert("hey")
+</script>
+<h1>Hello, it's Sanitizer Test</h1>
